@@ -1,0 +1,13 @@
+D:\SOFTWARE\EnginDemirogCamp\C#\Basics\ClassStructure\bin\Debug\netcoreapp3.1\ClassStructure.exe
+D:\SOFTWARE\EnginDemirogCamp\C#\Basics\ClassStructure\bin\Debug\netcoreapp3.1\ClassStructure.deps.json
+D:\SOFTWARE\EnginDemirogCamp\C#\Basics\ClassStructure\bin\Debug\netcoreapp3.1\ClassStructure.runtimeconfig.json
+D:\SOFTWARE\EnginDemirogCamp\C#\Basics\ClassStructure\bin\Debug\netcoreapp3.1\ClassStructure.runtimeconfig.dev.json
+D:\SOFTWARE\EnginDemirogCamp\C#\Basics\ClassStructure\bin\Debug\netcoreapp3.1\ClassStructure.dll
+D:\SOFTWARE\EnginDemirogCamp\C#\Basics\ClassStructure\bin\Debug\netcoreapp3.1\ClassStructure.pdb
+D:\SOFTWARE\EnginDemirogCamp\C#\Basics\ClassStructure\obj\Debug\netcoreapp3.1\ClassStructure.csprojAssemblyReference.cache
+D:\SOFTWARE\EnginDemirogCamp\C#\Basics\ClassStructure\obj\Debug\netcoreapp3.1\ClassStructure.AssemblyInfoInputs.cache
+D:\SOFTWARE\EnginDemirogCamp\C#\Basics\ClassStructure\obj\Debug\netcoreapp3.1\ClassStructure.AssemblyInfo.cs
+D:\SOFTWARE\EnginDemirogCamp\C#\Basics\ClassStructure\obj\Debug\netcoreapp3.1\ClassStructure.csproj.CoreCompileInputs.cache
+D:\SOFTWARE\EnginDemirogCamp\C#\Basics\ClassStructure\obj\Debug\netcoreapp3.1\ClassStructure.dll
+D:\SOFTWARE\EnginDemirogCamp\C#\Basics\ClassStructure\obj\Debug\netcoreapp3.1\ClassStructure.pdb
+D:\SOFTWARE\EnginDemirogCamp\C#\Basics\ClassStructure\obj\Debug\netcoreapp3.1\ClassStructure.genruntimeconfig.cache
