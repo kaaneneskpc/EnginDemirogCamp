@@ -1,0 +1,13 @@
+D:\SOFTWARE\EnginDemirogCamp\C#\Basics2\Odev\bin\Debug\netcoreapp3.1\Odev.exe
+D:\SOFTWARE\EnginDemirogCamp\C#\Basics2\Odev\bin\Debug\netcoreapp3.1\Odev.deps.json
+D:\SOFTWARE\EnginDemirogCamp\C#\Basics2\Odev\bin\Debug\netcoreapp3.1\Odev.runtimeconfig.json
+D:\SOFTWARE\EnginDemirogCamp\C#\Basics2\Odev\bin\Debug\netcoreapp3.1\Odev.runtimeconfig.dev.json
+D:\SOFTWARE\EnginDemirogCamp\C#\Basics2\Odev\bin\Debug\netcoreapp3.1\Odev.dll
+D:\SOFTWARE\EnginDemirogCamp\C#\Basics2\Odev\bin\Debug\netcoreapp3.1\Odev.pdb
+D:\SOFTWARE\EnginDemirogCamp\C#\Basics2\Odev\obj\Debug\netcoreapp3.1\Odev.csprojAssemblyReference.cache
+D:\SOFTWARE\EnginDemirogCamp\C#\Basics2\Odev\obj\Debug\netcoreapp3.1\Odev.AssemblyInfoInputs.cache
+D:\SOFTWARE\EnginDemirogCamp\C#\Basics2\Odev\obj\Debug\netcoreapp3.1\Odev.AssemblyInfo.cs
+D:\SOFTWARE\EnginDemirogCamp\C#\Basics2\Odev\obj\Debug\netcoreapp3.1\Odev.csproj.CoreCompileInputs.cache
+D:\SOFTWARE\EnginDemirogCamp\C#\Basics2\Odev\obj\Debug\netcoreapp3.1\Odev.dll
+D:\SOFTWARE\EnginDemirogCamp\C#\Basics2\Odev\obj\Debug\netcoreapp3.1\Odev.pdb
+D:\SOFTWARE\EnginDemirogCamp\C#\Basics2\Odev\obj\Debug\netcoreapp3.1\Odev.genruntimeconfig.cache

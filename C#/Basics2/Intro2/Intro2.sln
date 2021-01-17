@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Intro2", "Intro2.csproj", "{7366A272-B64C-489A-AEEA-68C5A0417916}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Odev", "..\Odev\Odev.csproj", "{AC6985DA-C309-469F-A5CB-59B17C958B07}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7366A272-B64C-489A-AEEA-68C5A0417916}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7366A272-B64C-489A-AEEA-68C5A0417916}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7366A272-B64C-489A-AEEA-68C5A0417916}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7366A272-B64C-489A-AEEA-68C5A0417916}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AC6985DA-C309-469F-A5CB-59B17C958B07}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC6985DA-C309-469F-A5CB-59B17C958B07}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC6985DA-C309-469F-A5CB-59B17C958B07}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC6985DA-C309-469F-A5CB-59B17C958B07}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2141D463-41F0-439C-B8EE-860A1B300FB4}
+	EndGlobalSection
+EndGlobal
