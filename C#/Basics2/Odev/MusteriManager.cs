@@ -7,16 +7,16 @@ namespace Odev
     class MusteriManager
     {
 
-        public void Ekle(Musteri musteri)
+        public void Add(Musteri musteri)
         {
             Console.WriteLine("Musteri added." + " " + musteri.Name);
         }
 
-        public void Sil(Musteri musteri)
+        public void Delete(Musteri musteri)
         {
             Console.WriteLine("Musteri Deleted" + " " + musteri.Name);
         }
-        public void Listele(Musteri[] musteriler)
+        public void List(Musteri[] musteriler)
         {
             foreach (var musteri in musteriler)
             {

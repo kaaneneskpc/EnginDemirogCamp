@@ -21,14 +21,14 @@ namespace Odev
             Musteri[] musteriler = new Musteri[] { m1, m2};
 
             MusteriManager manager = new MusteriManager();
-            manager.Ekle(m1);
-            manager.Ekle(m2);
-            Console.WriteLine("----------------Musteriler Eklendi-------------");
-            manager.Sil(m1);
-            manager.Sil(m2);
-            Console.WriteLine("----------------Musteriler Silindi-------------");
-            manager.Listele(musteriler);
-            Console.WriteLine("----------------Musteriler Listelendi-------------");
+            manager.Add(m1);
+            manager.Add(m2);
+            Console.WriteLine("----------------Musteriler Added-------------");
+            manager.Delete(m1);
+            manager.Delete(m2);
+            Console.WriteLine("----------------Musteriler Deleted-------------");
+            manager.List(musteriler);
+            Console.WriteLine("----------------Musteriler Listed-------------");
 
         }
     }
