@@ -1,0 +1,12 @@
+D:\SOFTWARE\EnginDemirogCamp\C#\Basics3\DictionaryÖdev\bin\Debug\netcoreapp3.1\DictionaryÖdev.exe
+D:\SOFTWARE\EnginDemirogCamp\C#\Basics3\DictionaryÖdev\bin\Debug\netcoreapp3.1\DictionaryÖdev.deps.json
+D:\SOFTWARE\EnginDemirogCamp\C#\Basics3\DictionaryÖdev\bin\Debug\netcoreapp3.1\DictionaryÖdev.runtimeconfig.json
+D:\SOFTWARE\EnginDemirogCamp\C#\Basics3\DictionaryÖdev\bin\Debug\netcoreapp3.1\DictionaryÖdev.runtimeconfig.dev.json
+D:\SOFTWARE\EnginDemirogCamp\C#\Basics3\DictionaryÖdev\bin\Debug\netcoreapp3.1\DictionaryÖdev.dll
+D:\SOFTWARE\EnginDemirogCamp\C#\Basics3\DictionaryÖdev\bin\Debug\netcoreapp3.1\DictionaryÖdev.pdb
+D:\SOFTWARE\EnginDemirogCamp\C#\Basics3\DictionaryÖdev\obj\Debug\netcoreapp3.1\DictionaryÖdev.AssemblyInfoInputs.cache
+D:\SOFTWARE\EnginDemirogCamp\C#\Basics3\DictionaryÖdev\obj\Debug\netcoreapp3.1\DictionaryÖdev.AssemblyInfo.cs
+D:\SOFTWARE\EnginDemirogCamp\C#\Basics3\DictionaryÖdev\obj\Debug\netcoreapp3.1\DictionaryÖdev.csproj.CoreCompileInputs.cache
+D:\SOFTWARE\EnginDemirogCamp\C#\Basics3\DictionaryÖdev\obj\Debug\netcoreapp3.1\DictionaryÖdev.dll
+D:\SOFTWARE\EnginDemirogCamp\C#\Basics3\DictionaryÖdev\obj\Debug\netcoreapp3.1\DictionaryÖdev.pdb
+D:\SOFTWARE\EnginDemirogCamp\C#\Basics3\DictionaryÖdev\obj\Debug\netcoreapp3.1\DictionaryÖdev.genruntimeconfig.cache

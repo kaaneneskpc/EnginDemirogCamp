@@ -1,0 +1,13 @@
+D:\SOFTWARE\EnginDemirogCamp\C#\Basics3\Intro3\bin\Debug\netcoreapp3.1\Intro3.exe
+D:\SOFTWARE\EnginDemirogCamp\C#\Basics3\Intro3\bin\Debug\netcoreapp3.1\Intro3.deps.json
+D:\SOFTWARE\EnginDemirogCamp\C#\Basics3\Intro3\bin\Debug\netcoreapp3.1\Intro3.runtimeconfig.json
+D:\SOFTWARE\EnginDemirogCamp\C#\Basics3\Intro3\bin\Debug\netcoreapp3.1\Intro3.runtimeconfig.dev.json
+D:\SOFTWARE\EnginDemirogCamp\C#\Basics3\Intro3\bin\Debug\netcoreapp3.1\Intro3.dll
+D:\SOFTWARE\EnginDemirogCamp\C#\Basics3\Intro3\bin\Debug\netcoreapp3.1\Intro3.pdb
+D:\SOFTWARE\EnginDemirogCamp\C#\Basics3\Intro3\obj\Debug\netcoreapp3.1\Intro3.csprojAssemblyReference.cache
+D:\SOFTWARE\EnginDemirogCamp\C#\Basics3\Intro3\obj\Debug\netcoreapp3.1\Intro3.AssemblyInfoInputs.cache
+D:\SOFTWARE\EnginDemirogCamp\C#\Basics3\Intro3\obj\Debug\netcoreapp3.1\Intro3.AssemblyInfo.cs
+D:\SOFTWARE\EnginDemirogCamp\C#\Basics3\Intro3\obj\Debug\netcoreapp3.1\Intro3.csproj.CoreCompileInputs.cache
+D:\SOFTWARE\EnginDemirogCamp\C#\Basics3\Intro3\obj\Debug\netcoreapp3.1\Intro3.dll
+D:\SOFTWARE\EnginDemirogCamp\C#\Basics3\Intro3\obj\Debug\netcoreapp3.1\Intro3.pdb
+D:\SOFTWARE\EnginDemirogCamp\C#\Basics3\Intro3\obj\Debug\netcoreapp3.1\Intro3.genruntimeconfig.cache

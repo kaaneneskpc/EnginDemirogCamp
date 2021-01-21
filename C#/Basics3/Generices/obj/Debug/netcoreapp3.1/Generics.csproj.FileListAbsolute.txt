@@ -1,0 +1,13 @@
+D:\SOFTWARE\EnginDemirogCamp\C#\Basics3\Generices\bin\Debug\netcoreapp3.1\Generics.exe
+D:\SOFTWARE\EnginDemirogCamp\C#\Basics3\Generices\bin\Debug\netcoreapp3.1\Generics.deps.json
+D:\SOFTWARE\EnginDemirogCamp\C#\Basics3\Generices\bin\Debug\netcoreapp3.1\Generics.runtimeconfig.json
+D:\SOFTWARE\EnginDemirogCamp\C#\Basics3\Generices\bin\Debug\netcoreapp3.1\Generics.runtimeconfig.dev.json
+D:\SOFTWARE\EnginDemirogCamp\C#\Basics3\Generices\bin\Debug\netcoreapp3.1\Generics.dll
+D:\SOFTWARE\EnginDemirogCamp\C#\Basics3\Generices\bin\Debug\netcoreapp3.1\Generics.pdb
+D:\SOFTWARE\EnginDemirogCamp\C#\Basics3\Generices\obj\Debug\netcoreapp3.1\Generics.csprojAssemblyReference.cache
+D:\SOFTWARE\EnginDemirogCamp\C#\Basics3\Generices\obj\Debug\netcoreapp3.1\Generics.AssemblyInfoInputs.cache
+D:\SOFTWARE\EnginDemirogCamp\C#\Basics3\Generices\obj\Debug\netcoreapp3.1\Generics.AssemblyInfo.cs
+D:\SOFTWARE\EnginDemirogCamp\C#\Basics3\Generices\obj\Debug\netcoreapp3.1\Generics.csproj.CoreCompileInputs.cache
+D:\SOFTWARE\EnginDemirogCamp\C#\Basics3\Generices\obj\Debug\netcoreapp3.1\Generics.dll
+D:\SOFTWARE\EnginDemirogCamp\C#\Basics3\Generices\obj\Debug\netcoreapp3.1\Generics.pdb
+D:\SOFTWARE\EnginDemirogCamp\C#\Basics3\Generices\obj\Debug\netcoreapp3.1\Generics.genruntimeconfig.cache

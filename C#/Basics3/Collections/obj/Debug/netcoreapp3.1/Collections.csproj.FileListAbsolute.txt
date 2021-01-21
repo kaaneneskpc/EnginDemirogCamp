@@ -1,0 +1,13 @@
+D:\SOFTWARE\EnginDemirogCamp\C#\Basics3\Collections\bin\Debug\netcoreapp3.1\Collections.exe
+D:\SOFTWARE\EnginDemirogCamp\C#\Basics3\Collections\bin\Debug\netcoreapp3.1\Collections.deps.json
+D:\SOFTWARE\EnginDemirogCamp\C#\Basics3\Collections\bin\Debug\netcoreapp3.1\Collections.runtimeconfig.json
+D:\SOFTWARE\EnginDemirogCamp\C#\Basics3\Collections\bin\Debug\netcoreapp3.1\Collections.runtimeconfig.dev.json
+D:\SOFTWARE\EnginDemirogCamp\C#\Basics3\Collections\bin\Debug\netcoreapp3.1\Collections.dll
+D:\SOFTWARE\EnginDemirogCamp\C#\Basics3\Collections\bin\Debug\netcoreapp3.1\Collections.pdb
+D:\SOFTWARE\EnginDemirogCamp\C#\Basics3\Collections\obj\Debug\netcoreapp3.1\Collections.csprojAssemblyReference.cache
+D:\SOFTWARE\EnginDemirogCamp\C#\Basics3\Collections\obj\Debug\netcoreapp3.1\Collections.AssemblyInfoInputs.cache
+D:\SOFTWARE\EnginDemirogCamp\C#\Basics3\Collections\obj\Debug\netcoreapp3.1\Collections.AssemblyInfo.cs
+D:\SOFTWARE\EnginDemirogCamp\C#\Basics3\Collections\obj\Debug\netcoreapp3.1\Collections.csproj.CoreCompileInputs.cache
+D:\SOFTWARE\EnginDemirogCamp\C#\Basics3\Collections\obj\Debug\netcoreapp3.1\Collections.dll
+D:\SOFTWARE\EnginDemirogCamp\C#\Basics3\Collections\obj\Debug\netcoreapp3.1\Collections.pdb
+D:\SOFTWARE\EnginDemirogCamp\C#\Basics3\Collections\obj\Debug\netcoreapp3.1\Collections.genruntimeconfig.cache
