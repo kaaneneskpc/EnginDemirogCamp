@@ -8,3 +8,7 @@ Learned about programming language basic with python.And show what has been lear
 
 Learned about basics of C# language and C# class syntax.
 
+## Week-3
+
+Learned about basics of C# OOP programming and Generics Types.
+
