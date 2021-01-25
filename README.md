@@ -12,3 +12,7 @@ Learned about basics of C# language and C# class syntax.
 
 Learned about basics of C# OOP programming and Generics Types.
 
+## Week-4
+
+Integrated OOP structure into an application.Architecture was applied and logging system was written.
+
