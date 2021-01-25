@@ -1,0 +1,13 @@
+D:\SOFTWARE\EnginDemirogCamp\C#\OOP\OOPExamples2\bin\Debug\netcoreapp3.1\OOPExamples2.exe
+D:\SOFTWARE\EnginDemirogCamp\C#\OOP\OOPExamples2\bin\Debug\netcoreapp3.1\OOPExamples2.deps.json
+D:\SOFTWARE\EnginDemirogCamp\C#\OOP\OOPExamples2\bin\Debug\netcoreapp3.1\OOPExamples2.runtimeconfig.json
+D:\SOFTWARE\EnginDemirogCamp\C#\OOP\OOPExamples2\bin\Debug\netcoreapp3.1\OOPExamples2.runtimeconfig.dev.json
+D:\SOFTWARE\EnginDemirogCamp\C#\OOP\OOPExamples2\bin\Debug\netcoreapp3.1\OOPExamples2.dll
+D:\SOFTWARE\EnginDemirogCamp\C#\OOP\OOPExamples2\bin\Debug\netcoreapp3.1\OOPExamples2.pdb
+D:\SOFTWARE\EnginDemirogCamp\C#\OOP\OOPExamples2\obj\Debug\netcoreapp3.1\OOPExamples2.csprojAssemblyReference.cache
+D:\SOFTWARE\EnginDemirogCamp\C#\OOP\OOPExamples2\obj\Debug\netcoreapp3.1\OOPExamples2.AssemblyInfoInputs.cache
+D:\SOFTWARE\EnginDemirogCamp\C#\OOP\OOPExamples2\obj\Debug\netcoreapp3.1\OOPExamples2.AssemblyInfo.cs
+D:\SOFTWARE\EnginDemirogCamp\C#\OOP\OOPExamples2\obj\Debug\netcoreapp3.1\OOPExamples2.csproj.CoreCompileInputs.cache
+D:\SOFTWARE\EnginDemirogCamp\C#\OOP\OOPExamples2\obj\Debug\netcoreapp3.1\OOPExamples2.dll
+D:\SOFTWARE\EnginDemirogCamp\C#\OOP\OOPExamples2\obj\Debug\netcoreapp3.1\OOPExamples2.pdb
+D:\SOFTWARE\EnginDemirogCamp\C#\OOP\OOPExamples2\obj\Debug\netcoreapp3.1\OOPExamples2.genruntimeconfig.cache

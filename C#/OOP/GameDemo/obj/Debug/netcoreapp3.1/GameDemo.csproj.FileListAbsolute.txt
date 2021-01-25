@@ -1,0 +1,13 @@
+D:\SOFTWARE\EnginDemirogCamp\C#\OOP\GameDemo\bin\Debug\netcoreapp3.1\GameDemo.exe
+D:\SOFTWARE\EnginDemirogCamp\C#\OOP\GameDemo\bin\Debug\netcoreapp3.1\GameDemo.deps.json
+D:\SOFTWARE\EnginDemirogCamp\C#\OOP\GameDemo\bin\Debug\netcoreapp3.1\GameDemo.runtimeconfig.json
+D:\SOFTWARE\EnginDemirogCamp\C#\OOP\GameDemo\bin\Debug\netcoreapp3.1\GameDemo.runtimeconfig.dev.json
+D:\SOFTWARE\EnginDemirogCamp\C#\OOP\GameDemo\bin\Debug\netcoreapp3.1\GameDemo.dll
+D:\SOFTWARE\EnginDemirogCamp\C#\OOP\GameDemo\bin\Debug\netcoreapp3.1\GameDemo.pdb
+D:\SOFTWARE\EnginDemirogCamp\C#\OOP\GameDemo\obj\Debug\netcoreapp3.1\GameDemo.csprojAssemblyReference.cache
+D:\SOFTWARE\EnginDemirogCamp\C#\OOP\GameDemo\obj\Debug\netcoreapp3.1\GameDemo.AssemblyInfoInputs.cache
+D:\SOFTWARE\EnginDemirogCamp\C#\OOP\GameDemo\obj\Debug\netcoreapp3.1\GameDemo.AssemblyInfo.cs
+D:\SOFTWARE\EnginDemirogCamp\C#\OOP\GameDemo\obj\Debug\netcoreapp3.1\GameDemo.csproj.CoreCompileInputs.cache
+D:\SOFTWARE\EnginDemirogCamp\C#\OOP\GameDemo\obj\Debug\netcoreapp3.1\GameDemo.dll
+D:\SOFTWARE\EnginDemirogCamp\C#\OOP\GameDemo\obj\Debug\netcoreapp3.1\GameDemo.pdb
+D:\SOFTWARE\EnginDemirogCamp\C#\OOP\GameDemo\obj\Debug\netcoreapp3.1\GameDemo.genruntimeconfig.cache

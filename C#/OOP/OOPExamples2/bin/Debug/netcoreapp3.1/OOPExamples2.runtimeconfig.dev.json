@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\enes5\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\enes5\\.nuget\\packages"
+    ]
+  }
+}

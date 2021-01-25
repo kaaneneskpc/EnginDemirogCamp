@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "OOPExamples2/1.0.0": {
+        "runtime": {
+          "OOPExamples2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "OOPExamples2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
