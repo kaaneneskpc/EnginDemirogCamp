@@ -1,0 +1,10 @@
+D:\SOFTWARE\EnginDemirogCamp\C#\OOP\RecapDemo1\bin\Debug\RecapDemo1.exe.config
+D:\SOFTWARE\EnginDemirogCamp\C#\OOP\RecapDemo1\bin\Debug\RecapDemo1.exe
+D:\SOFTWARE\EnginDemirogCamp\C#\OOP\RecapDemo1\bin\Debug\RecapDemo1.pdb
+D:\SOFTWARE\EnginDemirogCamp\C#\OOP\RecapDemo1\obj\Debug\RecapDemo1.csprojAssemblyReference.cache
+D:\SOFTWARE\EnginDemirogCamp\C#\OOP\RecapDemo1\obj\Debug\RecapDemo1.Form1.resources
+D:\SOFTWARE\EnginDemirogCamp\C#\OOP\RecapDemo1\obj\Debug\RecapDemo1.Properties.Resources.resources
+D:\SOFTWARE\EnginDemirogCamp\C#\OOP\RecapDemo1\obj\Debug\RecapDemo1.csproj.GenerateResource.cache
+D:\SOFTWARE\EnginDemirogCamp\C#\OOP\RecapDemo1\obj\Debug\RecapDemo1.csproj.CoreCompileInputs.cache
+D:\SOFTWARE\EnginDemirogCamp\C#\OOP\RecapDemo1\obj\Debug\RecapDemo1.exe
+D:\SOFTWARE\EnginDemirogCamp\C#\OOP\RecapDemo1\obj\Debug\RecapDemo1.pdb
