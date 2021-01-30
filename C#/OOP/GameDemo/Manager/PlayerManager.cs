@@ -8,6 +8,13 @@ namespace GameDemo.Manager
 {
     class PlayerManager
     {
+        IUserValidation userValidation;
+
+        public PlayerManager(IUserValidation userValidation)
+        {
+            this.userValidation = userValidation;
+        }
+
         List<Player> players = new List<Player>() { };
 
         public void Add(Player player)
