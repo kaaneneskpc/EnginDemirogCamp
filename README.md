@@ -16,3 +16,6 @@ Learned about basics of C# OOP programming and Generics Types.
 
 Integrated OOP structure into an application.Architecture was applied and logging system was written.
 
+## Week-5
+
+Learned and integrated about SQL Queries into the my project.
