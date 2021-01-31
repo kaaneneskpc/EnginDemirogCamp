@@ -1,0 +1,12 @@
+D:\SOFTWARE\EnginDemirogCamp\C#\ReCapProject\RecapProject\DataAccess\bin\Debug\netstandard2.0\DataAccess.deps.json
+D:\SOFTWARE\EnginDemirogCamp\C#\ReCapProject\RecapProject\DataAccess\bin\Debug\netstandard2.0\DataAccess.dll
+D:\SOFTWARE\EnginDemirogCamp\C#\ReCapProject\RecapProject\DataAccess\bin\Debug\netstandard2.0\DataAccess.pdb
+D:\SOFTWARE\EnginDemirogCamp\C#\ReCapProject\RecapProject\DataAccess\bin\Debug\netstandard2.0\Entities.dll
+D:\SOFTWARE\EnginDemirogCamp\C#\ReCapProject\RecapProject\DataAccess\bin\Debug\netstandard2.0\Entities.pdb
+D:\SOFTWARE\EnginDemirogCamp\C#\ReCapProject\RecapProject\DataAccess\obj\Debug\netstandard2.0\DataAccess.csprojAssemblyReference.cache
+D:\SOFTWARE\EnginDemirogCamp\C#\ReCapProject\RecapProject\DataAccess\obj\Debug\netstandard2.0\DataAccess.AssemblyInfoInputs.cache
+D:\SOFTWARE\EnginDemirogCamp\C#\ReCapProject\RecapProject\DataAccess\obj\Debug\netstandard2.0\DataAccess.AssemblyInfo.cs
+D:\SOFTWARE\EnginDemirogCamp\C#\ReCapProject\RecapProject\DataAccess\obj\Debug\netstandard2.0\DataAccess.csproj.CoreCompileInputs.cache
+D:\SOFTWARE\EnginDemirogCamp\C#\ReCapProject\RecapProject\DataAccess\obj\Debug\netstandard2.0\DataAccess.csproj.CopyComplete
+D:\SOFTWARE\EnginDemirogCamp\C#\ReCapProject\RecapProject\DataAccess\obj\Debug\netstandard2.0\DataAccess.dll
+D:\SOFTWARE\EnginDemirogCamp\C#\ReCapProject\RecapProject\DataAccess\obj\Debug\netstandard2.0\DataAccess.pdb

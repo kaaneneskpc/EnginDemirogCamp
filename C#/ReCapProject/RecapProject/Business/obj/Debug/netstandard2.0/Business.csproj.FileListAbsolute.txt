@@ -1,0 +1,14 @@
+D:\SOFTWARE\EnginDemirogCamp\C#\ReCapProject\RecapProject\Business\bin\Debug\netstandard2.0\Business.deps.json
+D:\SOFTWARE\EnginDemirogCamp\C#\ReCapProject\RecapProject\Business\bin\Debug\netstandard2.0\Business.dll
+D:\SOFTWARE\EnginDemirogCamp\C#\ReCapProject\RecapProject\Business\bin\Debug\netstandard2.0\Business.pdb
+D:\SOFTWARE\EnginDemirogCamp\C#\ReCapProject\RecapProject\Business\bin\Debug\netstandard2.0\DataAccess.dll
+D:\SOFTWARE\EnginDemirogCamp\C#\ReCapProject\RecapProject\Business\bin\Debug\netstandard2.0\Entities.dll
+D:\SOFTWARE\EnginDemirogCamp\C#\ReCapProject\RecapProject\Business\bin\Debug\netstandard2.0\DataAccess.pdb
+D:\SOFTWARE\EnginDemirogCamp\C#\ReCapProject\RecapProject\Business\bin\Debug\netstandard2.0\Entities.pdb
+D:\SOFTWARE\EnginDemirogCamp\C#\ReCapProject\RecapProject\Business\obj\Debug\netstandard2.0\Business.csprojAssemblyReference.cache
+D:\SOFTWARE\EnginDemirogCamp\C#\ReCapProject\RecapProject\Business\obj\Debug\netstandard2.0\Business.AssemblyInfoInputs.cache
+D:\SOFTWARE\EnginDemirogCamp\C#\ReCapProject\RecapProject\Business\obj\Debug\netstandard2.0\Business.AssemblyInfo.cs
+D:\SOFTWARE\EnginDemirogCamp\C#\ReCapProject\RecapProject\Business\obj\Debug\netstandard2.0\Business.csproj.CoreCompileInputs.cache
+D:\SOFTWARE\EnginDemirogCamp\C#\ReCapProject\RecapProject\Business\obj\Debug\netstandard2.0\Business.csproj.CopyComplete
+D:\SOFTWARE\EnginDemirogCamp\C#\ReCapProject\RecapProject\Business\obj\Debug\netstandard2.0\Business.dll
+D:\SOFTWARE\EnginDemirogCamp\C#\ReCapProject\RecapProject\Business\obj\Debug\netstandard2.0\Business.pdb

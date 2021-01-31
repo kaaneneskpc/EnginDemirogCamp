@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "x0fkpvsxUPJdsOBqCaO0QRt0+sSQvcYMgM5lCQAS8w6TP1DJip0aV48qbwlwCrgQzvCxeJgzeBT9QGLPXIR73A==",
+  "success": true,
+  "projectFilePath": "D:\\SOFTWARE\\EnginDemirogCamp\\C#\\FinalProject\\FinalProject\\Entities\\Entities.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\enes5\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\enes5\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
