@@ -19,3 +19,7 @@ Integrated OOP structure into an application.Architecture was applied and loggin
 ## Week-5
 
 Learned and integrated about SQL Queries into the my project.
+
+## Week-6
+
+Learned LINQ querys,software architecture fundamentals and implemented our projects (Final and Recap Projects)
