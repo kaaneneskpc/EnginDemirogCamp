@@ -1,0 +1,13 @@
+D:\SOFTWARE\EnginDemirogCamp\C#\ReCapProject\RecapProject\Linq\obj\Debug\netcoreapp3.1\Linq.csprojAssemblyReference.cache
+D:\SOFTWARE\EnginDemirogCamp\C#\ReCapProject\RecapProject\Linq\obj\Debug\netcoreapp3.1\Linq.AssemblyInfoInputs.cache
+D:\SOFTWARE\EnginDemirogCamp\C#\ReCapProject\RecapProject\Linq\obj\Debug\netcoreapp3.1\Linq.AssemblyInfo.cs
+D:\SOFTWARE\EnginDemirogCamp\C#\ReCapProject\RecapProject\Linq\obj\Debug\netcoreapp3.1\Linq.csproj.CoreCompileInputs.cache
+D:\SOFTWARE\EnginDemirogCamp\C#\ReCapProject\RecapProject\Linq\bin\Debug\netcoreapp3.1\Linq.exe
+D:\SOFTWARE\EnginDemirogCamp\C#\ReCapProject\RecapProject\Linq\bin\Debug\netcoreapp3.1\Linq.deps.json
+D:\SOFTWARE\EnginDemirogCamp\C#\ReCapProject\RecapProject\Linq\bin\Debug\netcoreapp3.1\Linq.runtimeconfig.json
+D:\SOFTWARE\EnginDemirogCamp\C#\ReCapProject\RecapProject\Linq\bin\Debug\netcoreapp3.1\Linq.runtimeconfig.dev.json
+D:\SOFTWARE\EnginDemirogCamp\C#\ReCapProject\RecapProject\Linq\bin\Debug\netcoreapp3.1\Linq.dll
+D:\SOFTWARE\EnginDemirogCamp\C#\ReCapProject\RecapProject\Linq\bin\Debug\netcoreapp3.1\Linq.pdb
+D:\SOFTWARE\EnginDemirogCamp\C#\ReCapProject\RecapProject\Linq\obj\Debug\netcoreapp3.1\Linq.dll
+D:\SOFTWARE\EnginDemirogCamp\C#\ReCapProject\RecapProject\Linq\obj\Debug\netcoreapp3.1\Linq.pdb
+D:\SOFTWARE\EnginDemirogCamp\C#\ReCapProject\RecapProject\Linq\obj\Debug\netcoreapp3.1\Linq.genruntimeconfig.cache
