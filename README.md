@@ -23,3 +23,7 @@ Learned and integrated about SQL Queries into the my project.
 ## Week-6
 
 Learned LINQ querys,software architecture fundamentals and implemented our projects (Final and Recap Projects)
+
+## Week-7/8
+
+Learned Entity Framework basics and applied for our projects.
