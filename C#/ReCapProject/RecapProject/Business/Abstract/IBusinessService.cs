@@ -8,5 +8,7 @@ namespace Business.Abstract
     public interface IBusinessService
     {
         List<Car> GetAll();
+
+        
     }
 }

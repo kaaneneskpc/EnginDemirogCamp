@@ -57,6 +57,25 @@ namespace Linq
                 Console.WriteLine(item.ProductName);
             }
             Console.WriteLine("---------------------------------------------------");
+            var result3 = from p in products
+                          where p.UnitPrice > 6000
+                          orderby p.UnitPrice descending, p.ProductName ascending
+                          select new ProductDto { ProductId=p.ProductId,ProductName=p.ProductName,UnitPrice=p.UnitPrice};
+            foreach (var item in result3)
+            {
+                Console.WriteLine(item.ProductName);
+            }
+            Console.WriteLine("---------------------------------------------------");
+            var result4 = from p in products
+                          join c in categories
+                          on p.CategoryId equals c.CategoryId
+                          where p.UnitPrice>7000
+                          orderby p.UnitPrice ascending
+                          select new ProductDto { ProductId = p.ProductId,ProductName=p.ProductName,CategoryName = c.CategoryName };
+            foreach (var item in result4)
+            {
+                Console.WriteLine("{0}---{1}",item.ProductName,item.CategoryName);
+            }
 
         }
         /*
