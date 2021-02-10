@@ -27,3 +27,7 @@ Learned LINQ querys,software architecture fundamentals and implemented our proje
 ## Week-7/8
 
 Learned Entity Framework basics and applied for our projects.
+
+## Week-9
+
+Code refactoring and implemented corporate architecture structure 
