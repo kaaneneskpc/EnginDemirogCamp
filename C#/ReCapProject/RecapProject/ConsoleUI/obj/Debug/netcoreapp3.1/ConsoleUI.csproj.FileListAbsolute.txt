@@ -58,3 +58,5 @@ D:\SOFTWARE\EnginDemirogCamp\C#\ReCapProject\RecapProject\ConsoleUI\bin\Debug\ne
 D:\SOFTWARE\EnginDemirogCamp\C#\ReCapProject\RecapProject\ConsoleUI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
 D:\SOFTWARE\EnginDemirogCamp\C#\ReCapProject\RecapProject\ConsoleUI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
 D:\SOFTWARE\EnginDemirogCamp\C#\ReCapProject\RecapProject\ConsoleUI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\SOFTWARE\EnginDemirogCamp\C#\ReCapProject\RecapProject\ConsoleUI\bin\Debug\netcoreapp3.1\Core.dll
+D:\SOFTWARE\EnginDemirogCamp\C#\ReCapProject\RecapProject\ConsoleUI\bin\Debug\netcoreapp3.1\Core.pdb

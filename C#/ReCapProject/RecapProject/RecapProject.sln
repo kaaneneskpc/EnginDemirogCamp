@@ -13,7 +13,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleUI", "ConsoleUI\Cons
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DemoApp", "DemoApp", "{7BAE1926-564A-4F4E-ACE7-70F29DC256AE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Linq", "Linq\Linq.csproj", "{C75969AC-4ACC-47A1-B494-7E7697290DDB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Linq", "Linq\Linq.csproj", "{C75969AC-4ACC-47A1-B494-7E7697290DDB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Core", "Core\Core.csproj", "{944705CD-A7C2-4501-B9B0-82668F4434D7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -41,6 +43,10 @@ Global
 		{C75969AC-4ACC-47A1-B494-7E7697290DDB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C75969AC-4ACC-47A1-B494-7E7697290DDB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C75969AC-4ACC-47A1-B494-7E7697290DDB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{944705CD-A7C2-4501-B9B0-82668F4434D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{944705CD-A7C2-4501-B9B0-82668F4434D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{944705CD-A7C2-4501-B9B0-82668F4434D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{944705CD-A7C2-4501-B9B0-82668F4434D7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

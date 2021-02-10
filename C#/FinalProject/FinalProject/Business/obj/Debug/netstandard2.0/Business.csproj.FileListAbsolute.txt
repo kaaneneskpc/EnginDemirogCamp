@@ -12,3 +12,5 @@ D:\SOFTWARE\EnginDemirogCamp\C#\FinalProject\FinalProject\Business\bin\Debug\net
 D:\SOFTWARE\EnginDemirogCamp\C#\FinalProject\FinalProject\Business\bin\Debug\netstandard2.0\DataAccess.pdb
 D:\SOFTWARE\EnginDemirogCamp\C#\FinalProject\FinalProject\Business\bin\Debug\netstandard2.0\Entities.pdb
 D:\SOFTWARE\EnginDemirogCamp\C#\FinalProject\FinalProject\Business\obj\Debug\netstandard2.0\Business.csproj.CopyComplete
+D:\SOFTWARE\EnginDemirogCamp\C#\FinalProject\FinalProject\Business\bin\Debug\netstandard2.0\Core.dll
+D:\SOFTWARE\EnginDemirogCamp\C#\FinalProject\FinalProject\Business\bin\Debug\netstandard2.0\Core.pdb

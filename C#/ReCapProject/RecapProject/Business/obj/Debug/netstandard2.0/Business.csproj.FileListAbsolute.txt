@@ -12,3 +12,5 @@ D:\SOFTWARE\EnginDemirogCamp\C#\ReCapProject\RecapProject\Business\obj\Debug\net
 D:\SOFTWARE\EnginDemirogCamp\C#\ReCapProject\RecapProject\Business\obj\Debug\netstandard2.0\Business.csproj.CopyComplete
 D:\SOFTWARE\EnginDemirogCamp\C#\ReCapProject\RecapProject\Business\obj\Debug\netstandard2.0\Business.dll
 D:\SOFTWARE\EnginDemirogCamp\C#\ReCapProject\RecapProject\Business\obj\Debug\netstandard2.0\Business.pdb
+D:\SOFTWARE\EnginDemirogCamp\C#\ReCapProject\RecapProject\Business\bin\Debug\netstandard2.0\Core.dll
+D:\SOFTWARE\EnginDemirogCamp\C#\ReCapProject\RecapProject\Business\bin\Debug\netstandard2.0\Core.pdb

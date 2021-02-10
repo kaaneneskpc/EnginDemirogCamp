@@ -5,10 +5,11 @@ using DataAccess.Abstract;
 using System;
 using System.Collections.Generic;
 using System.Text;
+using Entities.DTOs;
 
 namespace Business.Concrete
 {
-    public class CarManager : IBusinessService
+    public class CarManager : ICarService
     {
         ICarDal _carDal;
 
@@ -61,5 +62,9 @@ namespace Business.Concrete
             _carDal.Update(car);
         }
 
+        public List<CarDetailDto> GetCarDetails()
+        {
+            return _carDal.GetCarDetails();
+        }
     }
 }

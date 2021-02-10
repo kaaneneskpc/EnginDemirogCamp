@@ -2,13 +2,11 @@
 using System;
 using System.Collections.Generic;
 using System.Text;
+using Core.DataAccess;
 
-namespace Business.Abstract
+namespace DataAccess.Abstract
 {
-    public interface IBusinessService
+    public interface IOrderDal : IEntitiyRepository<Order>
     {
-        List<Car> GetAll();
-
-        
     }
 }

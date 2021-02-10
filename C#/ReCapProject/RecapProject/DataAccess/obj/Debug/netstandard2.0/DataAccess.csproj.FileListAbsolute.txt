@@ -10,3 +10,5 @@ D:\SOFTWARE\EnginDemirogCamp\C#\ReCapProject\RecapProject\DataAccess\obj\Debug\n
 D:\SOFTWARE\EnginDemirogCamp\C#\ReCapProject\RecapProject\DataAccess\obj\Debug\netstandard2.0\DataAccess.csproj.CopyComplete
 D:\SOFTWARE\EnginDemirogCamp\C#\ReCapProject\RecapProject\DataAccess\obj\Debug\netstandard2.0\DataAccess.dll
 D:\SOFTWARE\EnginDemirogCamp\C#\ReCapProject\RecapProject\DataAccess\obj\Debug\netstandard2.0\DataAccess.pdb
+D:\SOFTWARE\EnginDemirogCamp\C#\ReCapProject\RecapProject\DataAccess\bin\Debug\netstandard2.0\Core.dll
+D:\SOFTWARE\EnginDemirogCamp\C#\ReCapProject\RecapProject\DataAccess\bin\Debug\netstandard2.0\Core.pdb
