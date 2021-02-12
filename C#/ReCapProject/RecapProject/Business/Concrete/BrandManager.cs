@@ -1,4 +1,5 @@
 ﻿using Business.Abstract;
+using Core.Utilities.Results;
 using DataAccess.Abstract;
 using Entities.Concrete;
 using Entities.DTOs;
@@ -17,14 +18,15 @@ namespace Business.Concrete
              _brandDal = brandDal;
         }
 
-        public List<Brand> GetAll()
+        public IDataResult<List<Brand>> GetAll()
         {
-            return _brandDal.GetAll();
+            return new SuccessDataResult<List<Brand>>(_brandDal.GetAll());
+            
         }
 
-        public List<BrandDetailDto> GetBrandDetails()
+        public IDataResult<List<BrandDetailDto>> GetBrandDetails()
         {
-            throw new NotImplementedException();
+            return new SuccessDataResult<List<BrandDetailDto>>(_brandDal.GetBrandDetails());
         }
     }
 }
