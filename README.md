@@ -31,3 +31,11 @@ Learned Entity Framework basics and applied for our projects.
 ## Week-9
 
 Code refactoring and implemented corporate architecture structure 
+
+## Week-10
+
+Writing result classes
+
+## Week-11
+
+Writing Web API for my project.Using Postman.
