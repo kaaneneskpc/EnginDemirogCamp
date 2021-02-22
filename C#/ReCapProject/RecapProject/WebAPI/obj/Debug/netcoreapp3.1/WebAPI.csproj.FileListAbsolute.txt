@@ -66,3 +66,8 @@ D:\SOFTWARE\EnginDemirogCamp\C#\ReCapProject\RecapProject\WebAPI\obj\Debug\netco
 D:\SOFTWARE\EnginDemirogCamp\C#\ReCapProject\RecapProject\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.dll
 D:\SOFTWARE\EnginDemirogCamp\C#\ReCapProject\RecapProject\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.pdb
 D:\SOFTWARE\EnginDemirogCamp\C#\ReCapProject\RecapProject\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.genruntimeconfig.cache
+D:\SOFTWARE\EnginDemirogCamp\C#\ReCapProject\RecapProject\WebAPI\bin\Debug\netcoreapp3.1\Autofac.dll
+D:\SOFTWARE\EnginDemirogCamp\C#\ReCapProject\RecapProject\WebAPI\bin\Debug\netcoreapp3.1\Autofac.Extensions.DependencyInjection.dll
+D:\SOFTWARE\EnginDemirogCamp\C#\ReCapProject\RecapProject\WebAPI\bin\Debug\netcoreapp3.1\Autofac.Extras.DynamicProxy.dll
+D:\SOFTWARE\EnginDemirogCamp\C#\ReCapProject\RecapProject\WebAPI\bin\Debug\netcoreapp3.1\Castle.Core.dll
+D:\SOFTWARE\EnginDemirogCamp\C#\ReCapProject\RecapProject\WebAPI\bin\Debug\netcoreapp3.1\FluentValidation.dll

@@ -8,6 +8,9 @@ using System.Text;
 using Entities.DTOs;
 using Core.Utilities.Results;
 using Business.Constants;
+using FluentValidation;
+using Business.ValidationRules.FluentValidation;
+using Core.CrossCuttingConcerns.Validation;
 
 namespace Business.Concrete
 {
@@ -23,40 +26,28 @@ namespace Business.Concrete
         public IDataResult<List<Car>> GetAll()
         {
             return new SuccessDataResult<List<Car>>(_carDal.GetAll());
-            
+
         }
-        
+
 
         public IDataResult<List<Car>> GetCarsByColorId(int id)
         {
             return new SuccessDataResult<List<Car>>(_carDal.GetAll(c => c.ColorId == id));
-           
+
         }
 
         public IResult Add(Car car)
         {
-            if (car.Description.Length >= 2)
-            {
-                if (car.DailyPrice > 0)
-                {
-                    _carDal.Add(car);
-                    return new SuccessResult(Messages.Added);
-                }
-                else
-                {
-                    return new ErrorResult(Messages.PriceInvalid);
-                }
-                
-            }
-            else
-            {
-                return new ErrorResult(Messages.NameInvalid);
-            }
+
+           ValidationTool.Validate(new CarValidator(), car);
+
+            _carDal.Add(car);
+            return new SuccessResult(Messages.Added);
 
         }
         public IResult Delete(Car car)
         {
-            
+
             _carDal.Delete(car);
             return new SuccessResult(Messages.Deleted);
 
@@ -71,7 +62,7 @@ namespace Business.Concrete
         public IDataResult<List<CarDetailDto>> GetCarDetails()
         {
             return new SuccessDataResult<List<CarDetailDto>>(_carDal.GetCarDetails());
-            
+
         }
     }
 }

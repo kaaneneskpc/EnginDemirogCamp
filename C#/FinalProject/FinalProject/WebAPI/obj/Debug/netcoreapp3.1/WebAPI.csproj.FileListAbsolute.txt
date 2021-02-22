@@ -66,3 +66,8 @@ D:\SOFTWARE\EnginDemirogCamp\C#\FinalProject\FinalProject\WebAPI\bin\Debug\netco
 D:\SOFTWARE\EnginDemirogCamp\C#\FinalProject\FinalProject\WebAPI\bin\Debug\netcoreapp3.1\DataAccess.pdb
 D:\SOFTWARE\EnginDemirogCamp\C#\FinalProject\FinalProject\WebAPI\bin\Debug\netcoreapp3.1\Entities.pdb
 D:\SOFTWARE\EnginDemirogCamp\C#\FinalProject\FinalProject\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.csproj.CopyComplete
+D:\SOFTWARE\EnginDemirogCamp\C#\FinalProject\FinalProject\WebAPI\bin\Debug\netcoreapp3.1\Autofac.dll
+D:\SOFTWARE\EnginDemirogCamp\C#\FinalProject\FinalProject\WebAPI\bin\Debug\netcoreapp3.1\Autofac.Extensions.DependencyInjection.dll
+D:\SOFTWARE\EnginDemirogCamp\C#\FinalProject\FinalProject\WebAPI\bin\Debug\netcoreapp3.1\Autofac.Extras.DynamicProxy.dll
+D:\SOFTWARE\EnginDemirogCamp\C#\FinalProject\FinalProject\WebAPI\bin\Debug\netcoreapp3.1\Castle.Core.dll
+D:\SOFTWARE\EnginDemirogCamp\C#\FinalProject\FinalProject\WebAPI\bin\Debug\netcoreapp3.1\FluentValidation.dll
