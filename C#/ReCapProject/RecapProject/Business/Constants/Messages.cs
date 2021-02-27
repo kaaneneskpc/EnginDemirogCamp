@@ -15,5 +15,8 @@ namespace Business.Constants
         public static string Deleted="Deleted";
         public static string Updated="Updated";
         public static string ReturnDateInvalid="Return Date Invalid";
+        public static string FailedImageAdd="Image count has max 5";
+        public static string AddedImage="Image Added";
+        internal static string DeletedImage="Image Deleted";
     }
 }

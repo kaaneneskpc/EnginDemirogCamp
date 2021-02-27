@@ -10,6 +10,7 @@ namespace ConsoleUI
     {
         static void Main(string[] args)
         {
+            /*
             CarManager carManager = new CarManager(new EfCarDal());
             ColorManager colorManager = new ColorManager(new EfColorDal());
             BrandManager brandManager = new BrandManager(new EfBrandDal());
@@ -60,7 +61,8 @@ namespace ConsoleUI
             foreach (var item in colorManager.GetById(1).Data)
             {
                 Console.WriteLine(item.ColorName);
-            }
+            }*/
+
         }
     }
 }

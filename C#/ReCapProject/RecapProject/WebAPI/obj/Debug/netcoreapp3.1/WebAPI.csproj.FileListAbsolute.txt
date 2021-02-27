@@ -71,3 +71,5 @@ D:\SOFTWARE\EnginDemirogCamp\C#\ReCapProject\RecapProject\WebAPI\bin\Debug\netco
 D:\SOFTWARE\EnginDemirogCamp\C#\ReCapProject\RecapProject\WebAPI\bin\Debug\netcoreapp3.1\Autofac.Extras.DynamicProxy.dll
 D:\SOFTWARE\EnginDemirogCamp\C#\ReCapProject\RecapProject\WebAPI\bin\Debug\netcoreapp3.1\Castle.Core.dll
 D:\SOFTWARE\EnginDemirogCamp\C#\ReCapProject\RecapProject\WebAPI\bin\Debug\netcoreapp3.1\FluentValidation.dll
+D:\SOFTWARE\EnginDemirogCamp\C#\ReCapProject\RecapProject\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Http.Features.dll
+D:\SOFTWARE\EnginDemirogCamp\C#\ReCapProject\RecapProject\WebAPI\bin\Debug\netcoreapp3.1\System.IO.Pipelines.dll

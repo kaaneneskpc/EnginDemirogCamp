@@ -11,6 +11,7 @@ using Business.Constants;
 using FluentValidation;
 using Business.ValidationRules.FluentValidation;
 using Core.CrossCuttingConcerns.Validation;
+using Core.Aspects.Autofac.Validation;
 
 namespace Business.Concrete
 {
@@ -35,7 +36,7 @@ namespace Business.Concrete
             return new SuccessDataResult<List<Car>>(_carDal.GetAll(c => c.ColorId == id));
 
         }
-
+        [ValidationAspect(typeof(CarValidator))]
         public IResult Add(Car car)
         {
 
