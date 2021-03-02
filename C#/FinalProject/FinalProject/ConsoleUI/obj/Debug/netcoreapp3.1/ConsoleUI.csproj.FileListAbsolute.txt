@@ -65,3 +65,5 @@ D:\SOFTWARE\EnginDemirogCamp\C#\FinalProject\FinalProject\ConsoleUI\bin\Debug\ne
 D:\SOFTWARE\EnginDemirogCamp\C#\FinalProject\FinalProject\ConsoleUI\bin\Debug\netcoreapp3.1\Castle.Core.dll
 D:\SOFTWARE\EnginDemirogCamp\C#\FinalProject\FinalProject\ConsoleUI\bin\Debug\netcoreapp3.1\Autofac.Extensions.DependencyInjection.dll
 D:\SOFTWARE\EnginDemirogCamp\C#\FinalProject\FinalProject\ConsoleUI\bin\Debug\netcoreapp3.1\FluentValidation.dll
+D:\SOFTWARE\EnginDemirogCamp\C#\FinalProject\FinalProject\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Http.Abstractions.dll
+D:\SOFTWARE\EnginDemirogCamp\C#\FinalProject\FinalProject\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Http.Features.dll

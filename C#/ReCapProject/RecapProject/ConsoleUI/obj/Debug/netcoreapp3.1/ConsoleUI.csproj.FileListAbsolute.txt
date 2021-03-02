@@ -67,3 +67,8 @@ D:\SOFTWARE\EnginDemirogCamp\C#\ReCapProject\RecapProject\ConsoleUI\bin\Debug\ne
 D:\SOFTWARE\EnginDemirogCamp\C#\ReCapProject\RecapProject\ConsoleUI\bin\Debug\netcoreapp3.1\FluentValidation.dll
 D:\SOFTWARE\EnginDemirogCamp\C#\ReCapProject\RecapProject\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Http.Features.dll
 D:\SOFTWARE\EnginDemirogCamp\C#\ReCapProject\RecapProject\ConsoleUI\bin\Debug\netcoreapp3.1\System.IO.Pipelines.dll
+D:\SOFTWARE\EnginDemirogCamp\C#\ReCapProject\RecapProject\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Http.Abstractions.dll
+D:\SOFTWARE\EnginDemirogCamp\C#\ReCapProject\RecapProject\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Http.dll
+D:\SOFTWARE\EnginDemirogCamp\C#\ReCapProject\RecapProject\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.WebUtilities.dll
+D:\SOFTWARE\EnginDemirogCamp\C#\ReCapProject\RecapProject\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.ObjectPool.dll
+D:\SOFTWARE\EnginDemirogCamp\C#\ReCapProject\RecapProject\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.Net.Http.Headers.dll

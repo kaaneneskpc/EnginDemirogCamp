@@ -1,6 +1,6 @@
 ﻿using Business.Abstract;
 using Entities.Concrete;
-using Business.Abstract;
+
 using DataAccess.Abstract;
 using System;
 using System.Collections.Generic;
@@ -11,6 +11,8 @@ using Business.Constants;
 using FluentValidation;
 using Business.ValidationRules.FluentValidation;
 using Core.CrossCuttingConcerns.Validation;
+
+using Business.BusinessAspects.Autofac;
 using Core.Aspects.Autofac.Validation;
 
 namespace Business.Concrete
@@ -36,6 +38,7 @@ namespace Business.Concrete
             return new SuccessDataResult<List<Car>>(_carDal.GetAll(c => c.ColorId == id));
 
         }
+        [SecuredOperation("car.add,admin")]
         [ValidationAspect(typeof(CarValidator))]
         public IResult Add(Car car)
         {
