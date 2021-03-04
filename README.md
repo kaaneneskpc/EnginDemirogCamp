@@ -48,3 +48,11 @@ Learning and integrated AOP techniques
 
 Code refactoring and implementated clean code techniques
 
+## Week-14
+
+Integrated JWT structure
+
+## Week-15
+
+Integrated Cache and Performance Manager System and transaction management.
+
