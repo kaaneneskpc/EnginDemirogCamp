@@ -11,6 +11,6 @@ namespace Business.Abstract
     {
         IDataResult<List<Brand>> GetAll();
 
-        IDataResult<List<BrandDetailDto>> GetBrandDetails();
+        //IDataResult<List<BrandDetailDto>> GetBrandDetails();
     }
 }

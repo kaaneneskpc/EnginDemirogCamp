@@ -24,9 +24,9 @@ namespace Business.Concrete
             
         }
 
-        public IDataResult<List<BrandDetailDto>> GetBrandDetails()
+       /* public IDataResult<List<BrandDetailDto>> GetBrandDetails()
         {
             return new SuccessDataResult<List<BrandDetailDto>>(_brandDal.GetBrandDetails());
-        }
+        }*/
     }
 }

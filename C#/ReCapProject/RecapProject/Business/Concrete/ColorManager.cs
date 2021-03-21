@@ -29,9 +29,9 @@ namespace Business.Concrete
             
         }
 
-        public IDataResult<List<ColorDetailDto>> GetColorDetails()
+       /* public IDataResult<List<ColorDetailDto>> GetColorDetails()
         {
             return new SuccessDataResult<List<ColorDetailDto>>(_colorDal.GetColorDetails());
-        }
+        }*/
     }
 }

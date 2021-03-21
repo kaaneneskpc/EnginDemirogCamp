@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "MEELrA00UYf9ygsizU7x3M3YQl/Ffk/ckdocfQD+84XXJ48xEh7/WKQMR9KSfMsW4wjbvj8YhpNfzlPVrvtoaQ==",
+  "dgSpecHash": "I7gqNWG01moZkhqlFHjt6DN5THLVEeea+L8mUappABkBoAZVNgI0n5cXWhjTYjboUvSia2rWXk38tH3Q7zJ7PQ==",
   "success": true,
   "projectFilePath": "D:\\SOFTWARE\\EnginDemirogCamp\\C#\\FinalProject\\FinalProject\\Core\\Core.csproj",
   "expectedPackageFiles": [
@@ -43,6 +43,7 @@
     "C:\\Users\\enes5\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
     "C:\\Users\\enes5\\.nuget\\packages\\microsoft.win32.registry\\4.5.0\\microsoft.win32.registry.4.5.0.nupkg.sha512",
     "C:\\Users\\enes5\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\enes5\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
     "C:\\Users\\enes5\\.nuget\\packages\\runtime.debian.8-x64.runtime.native.system.security.cryptography.openssl\\4.3.0\\runtime.debian.8-x64.runtime.native.system.security.cryptography.openssl.4.3.0.nupkg.sha512",
     "C:\\Users\\enes5\\.nuget\\packages\\runtime.fedora.23-x64.runtime.native.system.security.cryptography.openssl\\4.3.0\\runtime.fedora.23-x64.runtime.native.system.security.cryptography.openssl.4.3.0.nupkg.sha512",
     "C:\\Users\\enes5\\.nuget\\packages\\runtime.fedora.24-x64.runtime.native.system.security.cryptography.openssl\\4.3.0\\runtime.fedora.24-x64.runtime.native.system.security.cryptography.openssl.4.3.0.nupkg.sha512",
